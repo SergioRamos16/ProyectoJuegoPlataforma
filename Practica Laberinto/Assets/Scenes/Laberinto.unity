@@ -17747,15 +17747,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4207293392497186, guid: 11aaea5348574644a9eb4f4504fcce3f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.87
+      value: 20.39
       objectReference: {fileID: 0}
     - target: {fileID: 4207293392497186, guid: 11aaea5348574644a9eb4f4504fcce3f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.24
+      value: 2.08
       objectReference: {fileID: 0}
     - target: {fileID: 4207293392497186, guid: 11aaea5348574644a9eb4f4504fcce3f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -53.77
+      value: 14.44
       objectReference: {fileID: 0}
     - target: {fileID: 4207293392497186, guid: 11aaea5348574644a9eb4f4504fcce3f, type: 3}
       propertyPath: m_LocalRotation.w
@@ -41069,7 +41069,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f041e557be9ef847af000ff2dc550a2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  currentNumberOfCoins: 21
+  currentNumberOfCoins: 0
   coinText: {fileID: 1341813392}
   objetoDesaparecer: {fileID: 449584561}
   endGame: {fileID: 1133642520}
