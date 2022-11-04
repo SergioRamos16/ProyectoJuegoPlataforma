@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Startgame.unity
+    guid: 0795dc23a17497b4fba983c644ef3dc3
+  - enabled: 1
     path: Assets/Scenes/Laberinto.unity
     guid: 452f022fbb85cbf42a5cc025b6cee043
   - enabled: 1
